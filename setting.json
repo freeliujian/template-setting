@@ -1,0 +1,68 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": -3,
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 14,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "react"
+    ],
+    "editor.formatOnType": true,
+    "editor.formatOnSave": false,
+    "files.associations": {
+      "*.js": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "vsicons.projectDetection.disableDetect": true,
+    "editor.tabSize": 2,
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "eslint.format.enable": true,
+    "terminal.integrated.tabs.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.autofetch": true,
+    "workbench.editorAssociations": {
+      "*.xml": "default",
+      "*.NPK": "default",
+      "*.mp4": "default"
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "explorer.confirmDragAndDrop": false,
+    "scm.alwaysShowProviders": true,
+    "gitlens.advanced.messages": {
+      "suppressGitDisabledWarning": true
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.unicodeHighlight.allowedCharacters": {
+      "’": true
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.foldingMaximumRegions": 6000,
+    "gitlens.views.searchAndCompare.avatars": false,
+    "gitlens.views.tags.avatars": false,
+    "[typescript]": {
+      "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "search.followSymlinks": false,
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.openRepositoryInParentFolders": "never"
+  }

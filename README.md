@@ -1,2 +1,3 @@
 # template-setting
-a temaplate of setting.json for vscode 
+
+fot the temaplate of setting.json for vscode and tsconfig.json.
